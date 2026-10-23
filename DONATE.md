@@ -1,16 +1,15 @@
 # Support
 
-If my projects are useful to you, you can support them with crypto.
+If my projects are useful to you, you can support them with USDT.
 
-Если мои проекты оказались полезны, их можно поддержать криптой.
+Если мои проекты оказались полезны, их можно поддержать в USDT.
 
-| Coin | Network | Address |
-|------|---------|---------|
-| USDT, TRX | Tron (TRC20) | `TPvfEA2zK2MVq8DeW6B3ND8p9vYTUQK2jM` |
-| TON, USDT | TON | `UQDPJcIYgNJof09ocxSD7zAFUuk-xZtfBPCnWCuX-s_-If_X` |
-| BTC | Bitcoin | `bc1q3u4elung7n4vczgm5lvwj50k96vazkgf9njrtp` |
-| ETH, USDT, USDC | Ethereum, BNB Chain, Arbitrum, Base, Polygon | `0x835E82BFcEE4f4Da8FB9864e06C9A10795dD88E4` |
+| Network | USDT address |
+|---------|--------------|
+| Tron (TRC20) | `TNR33akoitrB5ir1ym36bJU6xDkv5oJWqV` |
+| BNB Smart Chain (BEP20) | `0x9D745E26B1CEb6e907B92232cEFEE15d1411fd74` |
+| Ethereum (ERC20) | `0x9D745E26B1CEb6e907B92232cEFEE15d1411fd74` |
 
-Send only the listed coins in the listed networks: a transfer in any other network may be lost.
+Send only USDT and only in these networks: other coins or networks may be lost.
 
-Отправляйте только указанные монеты в указанных сетях: перевод в другой сети может потеряться.
+Отправляйте только USDT и только в этих сетях: другие монеты или сети могут потеряться.
